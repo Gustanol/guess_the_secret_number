@@ -19,5 +19,6 @@ git clone https://github.com/Gustanol/guess_the_secret_number.git
 ## Execute the program: 😎
 
 ```bash
-java Main.java
+javac Main.java
+java Main
 ```
